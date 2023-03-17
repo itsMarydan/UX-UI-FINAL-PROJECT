@@ -18,10 +18,12 @@ Alfi ----
 
 
 Mary  --- 
+
 11. Do you find it easy to look up your week's schedule or semester teaching workload? 
 12. Do you find it easy to navigate back to the main screen after branching into other sections.
 13. Does the text on the screen look inviting to you ( Font assessment)
 14. Do you think signout and help makes sense on the screen? Does it look like a button? 
 15. Are there other features you would like to see on murphy that are currently not offered? 
+
 Bonus: How would you rate your experience with murpy (scale 1 - 10 )
 Bonus: How likely are you to recommend the usage of murpy as an example to other universities (scale 1 - 10 )
