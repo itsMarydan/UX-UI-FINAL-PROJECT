@@ -1,11 +1,11 @@
 ##### Questions 
 
 Ansley ----
-1. What is the your frequently used feature of the portal 
-2. What do you find most difficult to find 
-3. What is the first thing you look at when you navigate to murphy 
-4. How do you apply for vacation through murphy  -- usability 
-5. How do you find your tax documents on murphy --- usability 
+1. What is the your frequently used feature of the portal? A: "Setup- Personal information, tax info, contract signing for this semester." 
+2. What do you find most difficult to find A: "Everything. Had to go back to email to find my contract to sign for the semester because portal was not intuitive. Don't think I can find much information intuitivley. Have not found a good use case for Murphy unless needed."
+3. What is the first thing you look at when you navigate to murphy A: "Faculty services, entering grades, planning for semester, class list. Perfer Canvas."
+4. How do you apply for vacation through murphy  -- usability A: "Employee main menu->Vaction/sick time." Carl isn't able to do this one.
+5. How do you find your tax documents on murphy --- usability A: Uses search bar, searches "tax". Not able to find tax information under "Financial Information" tab. 
 
 
 Alfi ----
