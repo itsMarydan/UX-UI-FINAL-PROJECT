@@ -2,11 +2,11 @@
 
 ### Initial 
 
-Murphy Online is designed to be a tool to help Students, Faculty and Staff navigate their basic needs while affiliated with St. Thomas. It is a core point of communication between with the university and its body. The challenge however is that the usage of murphy online is extremely complex and has an unreasnably high learning curve. It is not designed to be intuitive and does not follow conventions that help guide product usage. 
+Murphy Online is designed to be a tool to help Students, Faculty and Staff navigate their basic needs while affiliated with St. Thomas. It is a core point of communication between the university and its body. The challenge however is that the usage of murphy online is extremely complex and has an unreasonably high learning curve. It is not designed to be intuitive and does not follow conventions that help guide product usage.
 
-The university invests a lot of resources in supporting the paltform both  technical and usage support. Mulit-page instruction documentations have to be provided to first time users to guide them through finding basic tasks. Current users spend more time looking for desired (actions / tasks ) than they do fufiling those tasks. The navigation and grouping does not seem to organize ( functions / utilities ) in a meaningful way. This has rendered the platform undesireable and lacking from the perspective of its targeted users ( The St. Thomas Community). 
+The university invests a lot of resources in supporting the platform with both technical and usage support. Multi-page instruction documentations have to be provided to first time users to guide them through finding basic tasks. Current users spend more time looking for desired (actions / tasks ) than they do fulfilling those tasks. The navigation and grouping does not seem to organize ( functions / utilities ) in a meaningful way. This has rendered the platform undesirable and lacking from the perspective of its targeted users ( The St. Thomas Community).
 
-To succeed as a one stop for the community murphy online needs to be intentional about the vairous personas it caters to and provide naviation that is more intuitive to those personas. It should show relvant categories and groups that are based off convention and clear relationships. It should reduce the level of effort spent on accomplishing tasks by making them easier to find / navigate
+To succeed as a one stop for the community, Murphy online needs to be intentional about the various personas it caters to and provide navigation that is more intuitive to those personas. It should show relevant categories and groups that are based on convention and clear relationships. It should reduce the level of effort spent on accomplishing tasks by making them easier to find / navigate
 
 
 ### Refined 
