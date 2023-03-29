@@ -15,3 +15,9 @@
 
 
 ###### Ansley
+Can you walk me through a specific task or activity that you have completed on Murphy Online? Was the process easy or difficult for you?
+Have you encountered any challenges or frustrations while using Murphy Online? 
+Could you describe the challenges you have faced while using Murphy Online and how you overcame them?
+How frequently do you use Murphy Online, and for what purposes? 
+Are there any features or functions on Murphy Online that you use more than others?
+How do you compare Murphy Online to other online portals that you have used in the past? What makes it stand out or fall short in comparison?
