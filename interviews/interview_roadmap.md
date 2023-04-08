@@ -6,10 +6,16 @@ Alfi Goyal:
 Hi there! My name is Alfi Goyal. I am persuing a second master's degree from UST, and I currently work as an Engineering Manager at Best Buy.
 As a parent of a one-year-old girl, I understand the importance of finding the right information quickly and efficiently. I am excited to be working with you for Murphy Online improvement project. 
 
+Ansley Bodine:
+Hello, I'm Ansley Bodine, a 5th-year master's degree student at UST. Throughout my academic journey at St. Thomas, I have been an ardent user of Murphy Online. As a vital platform for students, faculty, and families, it is imperative that the online portal operates smoothly and efficiently. That's why I'm thrilled to be part of the team working on enhancing the Murphy Online experience.
+
 
 ###  Purpose of Interview
 Alfi Goyal:
 We will be working closely with you to gather insights,feedback and understand your needs, expectations, and pain points if any when interacting with Murphy Online. Through our interviews and analysis, we will gather valuable insights that may inform a redesign and enhance its usability. It will help us understand user behaviors and attitudes towards your Murphy.
+
+Ansley Bodine:
+Our goal is to gain a deeper understanding of user behaviors and attitudes towards Murphy Online, and use this information to improve your overall experience.
 
 
 
@@ -25,6 +31,13 @@ Alfi Goyal:
 * On average, how much time do you spend using the Murphy Online website during a typical session?
 * Have you noticed any changes in your usage of the Murphy Online website over time, and if so, what factors have contributed to those changes?
 
+Ansley Bodine:
+What are the primary features or tools that you use most frequently on the Murphy Online website, and why?
+
+Have you encountered any challenges when using the Murphy Online website, such as error messages, slow loading times, or difficulty finding information? If so, can you describe those experiences?
+
+Are there any areas of the Murphy Online website that you find particularly user-friendly, and if so, why?
+
 
 ### Feelings and Impression (How is it to use, learn, find)
 Alfi Goyal:
@@ -33,6 +46,11 @@ Alfi Goyal:
 * Can you walk me through your experience using the website?
 * Did you find the website easy to navigate and use? Why or why not?
 * How did you feel about the information provided on the website? Was it helpful and informative?
+
+Ansley Bodine:
+Have you ever had a particularly positive or negative experience when using Murphy Online and if so, can you describe that experience in more detail?
+
+
 
 
 ### Get personal ( What do you like, find difficult)
@@ -73,3 +91,6 @@ Are there any particular types of content or information that you have trouble f
 Alfi Goyal:
 * Overall, how would you rate your experience using the Murphy online website? Why?
 * What suggestions do you have for improving the website's usability or user experience?
+
+Ansley Bodine:
+Is there anything you would like to talk about regarding Murphy Online that we didn't ask here today?
