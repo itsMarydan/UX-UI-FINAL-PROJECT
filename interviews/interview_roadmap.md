@@ -9,6 +9,9 @@ As a parent of a one-year-old girl, I understand the importance of finding the r
 Ansley Bodine:
 Hello, I'm Ansley Bodine, a 5th-year master's degree student at UST. Throughout my academic journey at St. Thomas, I have been an ardent user of Murphy Online. As a vital platform for students, faculty, and families, it is imperative that the online portal operates smoothly and efficiently. That's why I'm thrilled to be part of the team working on enhancing the Murphy Online experience.
 
+Mary Olowu: 
+Hi I am Mary Olowu, in my last semseter of my Masters in Software Engineering at Saint Thomas. I have used Murphy online for about 3 years now but as a student and an employee. I am excited about this project(murpy online) because I see the benefit that this feedback could bring to the  st thomas community. 
+
 
 ###  Purpose of Interview
 Alfi Goyal:
