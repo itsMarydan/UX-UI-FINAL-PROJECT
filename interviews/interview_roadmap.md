@@ -51,18 +51,18 @@ Alfi Goyal:
 
 ### Technical ( Toughts on the layout, naivagtion, search )
 Alfi Goyal:
-# Layout:
+#### Layout:
 * What are your initial thoughts on the overall layout of Murphy?
 * Is the information presented in a clear and easy-to-understand manner?
 * Are there any particular elements of the layout that you find confusing or difficult to navigate?
 * Do you feel like the layout is aesthetically pleasing and visually appealing?
 * Is there anything you would change about the layout if you could?
-# Navigation:
+#### Navigation:
 * Are you able to easily find what you're looking for on Murphy?
 * Is the navigation menu easy to use and understand?
 * Are there any particular pages or sections of Murphy that you find difficult to navigate to?
 * Are there any features or options that you would like to see added to the navigation?
-# Search:
+#### Search:
 Have you used the search function on Murphy? If so, how was your experience?
 Did you find the search results to be relevant and helpful?
 Is there anything you would change about the search function to make it more useful or user-friendly?
