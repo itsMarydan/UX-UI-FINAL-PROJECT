@@ -43,7 +43,7 @@ and what about it makes it take so long?
 
 #### Layout
 
-1. What are your initial thoughts on the overall layout of Murphy?
+1. What are your initial thoughts on the overall layout of Murphy (For example, the expandable boxes)?
 2. Is the content presented in a clear and easy-to-understand manner?
 3. Are there any particular elements of the layout that you find confusing or difficult to navigate?
 4. Do you feel like the layout is aesthetically pleasing and visually appealing?
