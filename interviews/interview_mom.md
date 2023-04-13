@@ -53,7 +53,7 @@ and what about it makes it take so long?
 #### Navigation
 
 1. Are you able to easily find what you're looking for on Murphy? 
-2. Do you feel that the content headers on Murphy Online  accurately represent the content they navigate to?
+2. Do you feel that the content headers and descriptions on Murphy Online  accurately represent the content they navigate to?
 3. Are there any features or options that you would like to see added to the navigation?
 4. Are there any particular pages or sections of Murphy that you find difficult to navigate to?
 
