@@ -22,7 +22,7 @@ and what about it makes it take so long?
 
 ### Feelings and Impression (How is it to use, learn, find)
 
-1. When you first visited the Murphy online website, how did you feel? What was your first impression of the website's design and layout?
+1. When you first visited the Murphy online, how did you feel? What was your first impression of the web app's design and layout?
 2. Did you find Murphy Online easy to navigate and use? Why or why not?
 3. How helpful was the information provided on Murphy Online  in guiding your usage or helping you find what you needed?
 4. Have you had a particularly positive or negative experience using Murphy Online that you would like to share,  if so, can you describe that experience in more detail?
