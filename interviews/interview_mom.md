@@ -20,9 +20,8 @@ and what about it makes it take so long?
 ### Feelings and Impression (How is it to use, learn, find)
 
 1. Think back to when you first visited the Murphy online, how did you feel?
-2. Did you find Murphy Online easy to navigate and use? Why or why not? --- redundant? 
-3. How helpful was the information provided on Murphy Online  in guiding your usage or helping you find what you needed?
-4. Have you had a particularly positive or negative experience using Murphy Online that you would like to share,  if so, can you describe that experience in more detail?
+2. How helpful was the information provided on Murphy Online  in guiding your usage or helping you find what you needed?
+3. Have you had a particularly positive or negative experience using Murphy Online that you would like to share,  if so, can you describe that experience in more detail?
 
 
 ### Get personal ( What do you like, find difficult)
@@ -46,7 +45,7 @@ and what about it makes it take so long?
 
 #### Navigation
 
-1. Are you able to easily find what you're looking for on Murphy? 
+1. Did you find Murphy Online easy to navigate and use? Why or why not?
 2. Do you feel that the content headers and descriptions on Murphy Online  accurately represent the content they navigate to?
 3. Are there any features or options that you would like to see added to the navigation? --redundent
 4. Are there any particular pages or sections of Murphy that you find difficult to navigate to?
