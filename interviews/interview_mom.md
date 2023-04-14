@@ -9,20 +9,17 @@ Can you please share your current affiliation with the University of St. Thomas?
 
 
 ### Usage Metrics 
-
-1. How often do you typically use Murphy Online? 
-2. What do you most often use Murphy Online for? 
-3. What task or activity in your experience takes you the longest to complete on Murphy
+1. What do you most often use Murphy Online for? 
+2. What task or activity in your experience takes you the longest to complete on Murphy
 and what about it makes it take so long? 
-4. Have you found yourself using Murphy online on a regular basis, or has your usage changed over time? If so, what has caused this change?
-5.  What are the primary features or tools that you use most frequently on Murphy Online, and why?
-6.  Have you encountered any challenges when using Murphy Online, such as error messages, slow loading times, or difficulty finding information? If so, can you describe those experiences?
-7.  Are there any areas of Murphy Online that you find particularly user-friendly, and if so, why?
+3.  What are the primary features or tools that you use most frequently on Murphy Online, and why?
+4.  Have you encountered any challenges when using Murphy Online, such as error messages, slow loading times, or difficulty finding information? If so, can you describe those experiences?
+5.  Are there any areas of Murphy Online that you find particularly user-friendly, and if so, why?
 
 
 ### Feelings and Impression (How is it to use, learn, find)
 
-1. Think back to when you first visited the Murphy online, how did you feel? What was your first impression of the web app's design and layout?
+1. Think back to when you first visited the Murphy online, how did you feel?
 2. Did you find Murphy Online easy to navigate and use? Why or why not?
 3. How helpful was the information provided on Murphy Online  in guiding your usage or helping you find what you needed?
 4. Have you had a particularly positive or negative experience using Murphy Online that you would like to share,  if so, can you describe that experience in more detail?
@@ -32,10 +29,8 @@ and what about it makes it take so long?
 
 1. What do you like most about using the Murphy Online?
 2. What do you find most difficult or frustrating when using Murphy?
-3. Can you describe a situation where you had trouble using Murphy?
-4. How easy was it for you to learn how to use Murphy?
-5. Are there any features or aspects of Murphy that you think could be improved or added?
-6. What suggestions do you have for improving Murphy's usability or user experience?
+3. How easy was it for you to learn how to use Murphy?
+4. Are there any features or aspects of Murphy that you think could be improved or added?
 
 
 ### Technical ( Toughts on the layout, naivagtion, search )
@@ -45,9 +40,8 @@ and what about it makes it take so long?
 
 1. What are your initial thoughts on the overall layout of Murphy (For example, the expandable boxes)?
 2. Is the content presented in a clear and easy-to-understand manner?
-3. Are there any particular elements of the layout that you find confusing or difficult to navigate?
-4. Do you feel like the layout is aesthetically pleasing and visually appealing?
-5. Is there anything you would change about the layout if you could?
+3. Do you feel like the layout is aesthetically pleasing and visually appealing?
+4. Is there anything you would change about the layout if you could?
 
 
 #### Navigation
@@ -64,14 +58,14 @@ and what about it makes it take so long?
 
 if they have used searching -- proceed to the below questions - 
 
-2. Did you find the search results to be relevant and helpful?
+2. Have you ever had trouble finding things using the search function?
 3. Is there anything you would change about the search function to make it more useful or user-friendly?
-4. Have you ever had trouble finding things using the search function?
+
 
 
 ### Rounding Up ( overall feedback? ask opinion on things not covered in interview)
 
-1. What suggestions do you have for improving the website's usability or user experience?
+1. What suggestions do you have for improving Murphy's usability or user experience?
 2. Is there anything you would like to talk about regarding Murphy Online that we didn't ask here today?
 
 Thank you! 
