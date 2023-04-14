@@ -47,8 +47,7 @@ and what about it makes it take so long?
 
 1. Did you find Murphy Online easy to navigate and use? Why or why not?
 2. Do you feel that the content headers and descriptions on Murphy Online  accurately represent the content they navigate to?
-3. Are there any features or options that you would like to see added to the navigation? --redundent
-4. Are there any particular pages or sections of Murphy that you find difficult to navigate to?
+3. Are there any particular pages or sections of Murphy that you find difficult to navigate to?
 
 
 #### Searching 
